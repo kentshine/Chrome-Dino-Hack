@@ -1,0 +1,7 @@
+//Once in the “Console” tab, paste the following command and then press the “Enter” key:
+
+var original = Runner.prototype.gameOver
+
+//Next, enter this command: 
+
+Runner.prototype.gameOver = function (){}
