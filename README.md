@@ -10,7 +10,7 @@ Most of us have seen the dreaded “No Internet” error message on Google Chrom
 ```
 var original = Runner.prototype.gameOver
 ```
-* Next, enter this command: 
+* Next, enter this command 👇: 
  ```
 Runner.prototype.gameOver = function (){}
 ```
